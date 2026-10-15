@@ -1,6 +1,6 @@
 # QA Portfolio - Oluwatomini Falade
 
-Welcome to my Quality Assurance portfolio! This repository highlights my progress, technical skills, and practical projects spanning manual testing, test case design, defect management, and API endpoint validation.
+Work in progress: I still have a few months of the Nupat Academy program ahead, and I’ll keep updating this repo as I learn.
 
 ## Repository Structure
 - [01-Test-Documentation](./01-Test-Documentation) - Foundational test cases, positive/negative testing frameworks, and STLC documentation.
